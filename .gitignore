@@ -1,0 +1,68 @@
+# Xcode
+.DS_Store
+*/.DS_Store
+*.swp
+*~
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Carthage
+/Carthage/
+/Pods/
+
+# CocoaPods
+/Pods/
+Podfile.lock
+
+# Swift Package Manager
+/.build/
+
+# Generated files
+DerivedData/
+.build/
+xcuserdata/
+
+# Compiled source
+**/*.pbxuser
+**/*.mode1v3
+**/*.mode2v3
+**/*.perspectivev3
+xcuserdata/
+*.xcuserdatad
+
+# Playgrounds
+*.playground
+
+# Build products
+build/
+*.o
+*.pyc
+
+# Miscellaneous
+*.xcworkspace/xcshareddata/
+.xcconfig
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.appiconset/
+
+# Obj-C/Swift specific
+timeline.xctimeline
+playground.xcworkspace
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+iOSInjectionProject/
+
+*.pdf
